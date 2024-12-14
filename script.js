@@ -154,7 +154,7 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["On this special day, i hope the world showers you with all the happiness and love you truely deserve. you're an incredible person who brings lights wherever you go, and today is just another reminder of how amazing you are.Have an absolutely wonderful birthday filled with all the things that make you happiest. 🌸💫 .Your's truely lover ~techeonn"],
+  strings: ["On this special day, i hope the world showers you with all the happiness and love you truely deserve. you're an incredible person who brings lights wherever you go, and today is just another reminder of how amazing you are.Have an absolutely wonderful birthday filled with all the things that make you happiest. 🌸💫 .Your's own ~Amal"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
