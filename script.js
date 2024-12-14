@@ -154,7 +154,7 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["On this special day, i hope the world showers you with all the happiness and love you truely deserve. you're an incredible person who brings lights wherever you go, and today is just another reminder of how amazing you are.Have an absolutely wonderful birthday filled with all the things that make you happiest. 🌸💫 .Your's own ~Amal"],
+  strings: ["On your Special Day, Firstly, sorry for worsened your last birthday. Now I'm trying to better your this birthday 😗. WISHING THE HAPPIEST BIRTHDAY TO MY FAVOURITE PERSON IN THE WORLD! 	Your love and support have been my greatest strength. Thank you for being you and for being mine. I’m so lucky to have you! 🌸💫 .Your's own ~Amal"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
