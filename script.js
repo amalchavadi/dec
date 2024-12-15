@@ -154,7 +154,7 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["On your Special Day, Firstly, sorry for worsened your last birthday. Now I'm trying to better your this birthday 😗. WISHING THE HAPPIEST BIRTHDAY TO MY FAVOURITE PERSON IN THE WORLD! 	Your love and support have been my greatest strength. Thank you for being you and for being mine. I’m so lucky to have you! 🌸💫 .Your's own ~Amal"],
+  strings: ["On your Special Day, Firstly, sorry for worsened your last birthday. Now I'm trying to better your this birthday 😗. WISHING THE HAPPIEST BIRTHDAY TO MY FAVOURITE PERSON IN THE WORLD! 	Your love and support have been my greatest strength. Thank you for being you and for being mine. I’m so lucky to have you! 🌸💫 Your's own ~Amal"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
@@ -169,7 +169,7 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["I love You🫀."],
+  strings: ["I LOVE YOU🫀."],
   startDelay: 2000,
   speed: 150,
   loop: false,
